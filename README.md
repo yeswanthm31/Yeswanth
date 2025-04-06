@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
