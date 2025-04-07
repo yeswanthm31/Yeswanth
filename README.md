@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0416-partition-equal-subset-sum) |
 ## Math
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
