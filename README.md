@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yeswanthm31/Yeswanth/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yeswanthm31/Yeswanth/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
