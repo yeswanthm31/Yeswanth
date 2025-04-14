@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yeswanthm31/Yeswanth/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yeswanthm31/Yeswanth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/yeswanthm31/Yeswanth/tree/master/0890-lemonade-change) |
+| [1656-count-good-triplets](https://github.com/yeswanthm31/Yeswanth/tree/master/1656-count-good-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yeswanthm31/Yeswanth/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/yeswanthm31/Yeswanth/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/yeswanthm31/Yeswanth/tree/master/2998-count-symmetric-integers) |
 ## Greedy
 |  |
