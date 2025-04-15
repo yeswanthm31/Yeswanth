@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yeswanthm31/Yeswanth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/yeswanthm31/Yeswanth/tree/master/0890-lemonade-change) |
 | [1656-count-good-triplets](https://github.com/yeswanthm31/Yeswanth/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yeswanthm31/Yeswanth/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -94,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
