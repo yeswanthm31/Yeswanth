@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yeswanthm31/Yeswanth/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeswanthm31/Yeswanth/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0088-merge-sorted-array) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/yeswanthm31/Yeswanth/tree/master/2249-count-the-hidden-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yeswanthm31/Yeswanth/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
