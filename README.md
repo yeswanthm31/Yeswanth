@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeswanthm31/Yeswanth/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yeswanthm31/Yeswanth/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeswanthm31/Yeswanth/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
