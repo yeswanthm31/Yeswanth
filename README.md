@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [1500-count-largest-group](https://github.com/yeswanthm31/Yeswanth/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeswanthm31/Yeswanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/yeswanthm31/Yeswanth/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yeswanthm31/Yeswanth/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yeswanthm31/Yeswanth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/yeswanthm31/Yeswanth/tree/master/0890-lemonade-change) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeswanthm31/Yeswanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Counting Sort
 |  |
 | ------- |
