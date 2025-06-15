@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
