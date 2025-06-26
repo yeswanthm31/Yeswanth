@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0416-partition-equal-subset-sum) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yeswanthm31/Yeswanth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/yeswanthm31/Yeswanth/tree/master/0890-lemonade-change) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeswanthm31/Yeswanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Counting Sort
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeswanthm31/Yeswanth/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
