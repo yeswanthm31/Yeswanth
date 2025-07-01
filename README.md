@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/yeswanthm31/Yeswanth/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/yeswanthm31/Yeswanth/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/yeswanthm31/Yeswanth/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeswanthm31/Yeswanth/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yeswanthm31/Yeswanth/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/yeswanthm31/Yeswanth/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/yeswanthm31/Yeswanth/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1500-count-largest-group](https://github.com/yeswanthm31/Yeswanth/tree/master/1500-count-largest-group) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yeswanthm31/Yeswanth/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/yeswanthm31/Yeswanth/tree/master/0073-set-matrix-zeroes) |
 ## Breadth-First Search
 |  |
 | ------- |
