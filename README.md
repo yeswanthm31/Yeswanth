@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yeswanthm31/Yeswanth/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yeswanthm31/Yeswanth/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/yeswanthm31/Yeswanth/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/yeswanthm31/Yeswanth/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeswanthm31/Yeswanth/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeswanthm31/Yeswanth/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/yeswanthm31/Yeswanth/tree/master/0046-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
