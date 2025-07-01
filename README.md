@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yeswanthm31/Yeswanth/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeswanthm31/Yeswanth/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/yeswanthm31/Yeswanth/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
