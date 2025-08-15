@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yeswanthm31/Yeswanth/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/yeswanthm31/Yeswanth/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/yeswanthm31/Yeswanth/tree/master/0368-largest-divisible-subset) |
 | [1500-count-largest-group](https://github.com/yeswanthm31/Yeswanth/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeswanthm31/Yeswanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yeswanthm31/Yeswanth/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/yeswanthm31/Yeswanth/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/yeswanthm31/Yeswanth/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/yeswanthm31/Yeswanth/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yeswanthm31/Yeswanth/tree/master/0024-swap-nodes-in-pairs) |
+| [0342-power-of-four](https://github.com/yeswanthm31/Yeswanth/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
